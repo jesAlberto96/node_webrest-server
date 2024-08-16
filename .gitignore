@@ -6,4 +6,6 @@ keys/
 
 notas.txt
 
-postgres/
+/postgres
+
+dist/
